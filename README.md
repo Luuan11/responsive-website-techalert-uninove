@@ -14,6 +14,7 @@ Projeto web criado para apresentação do 6 semestre
 - HTML
 - CSS
 - Git e Github
+- ScrollReveal
 
 ## 💡 Ferramentas:
 - VS code
